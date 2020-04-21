@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Not-so-serious
 
-- [Project 1 Title](http://example.com/)
+- [Test](https://wyoungky.github.io/fastpages/2020/04/19/testagain.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
